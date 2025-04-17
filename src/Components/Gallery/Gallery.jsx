@@ -1,8 +1,8 @@
 import './Gallery.css'
-import gallery_1 from '../../assets/gallery_2.jpg'
-import gallery_2 from '../../assets/gallery_1.jpg'
-import gallery_3 from '../../assets/gallery_3.jpg'
-import gallery_4 from '../../assets/gallery_4.jpg'
+import gallery_1 from '../../assets/p2_resized.jpg'
+import gallery_2 from '../../assets/resized_p1.jpg'
+import gallery_3 from '../../assets/p3_resized.jpg'
+import gallery_4 from '../../assets/p6_resized.jpg'
 import white_arrow from '../../assets/white-arrow.png'
 import { Link } from 'react-scroll'
 

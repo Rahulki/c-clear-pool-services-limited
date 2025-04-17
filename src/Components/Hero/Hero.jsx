@@ -7,7 +7,7 @@ const Hero = () => {
     <div className='hero container'>
       <div className="hero-text">
         <h1>Crystal Clear Pools Guaranteed</h1>
-        <p>Serving KWC and near by areas for 20+ years with expert pool cleaning, maintenance, and care—so you can enjoy every swim without the stress.</p>
+        <p>Serving Kitchener,waterloo and near by areas for 20+ years with expert pool cleaning, maintenance, and care—so you can enjoy every swim without the stress.</p>
         <button className='btn'><Link to='services' smooth={true} offset={-260} duration={500}>Explore more <img src={dark_arrow} alt="" /></Link></button>
       </div>
     </div>
